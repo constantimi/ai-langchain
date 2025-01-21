@@ -51,10 +51,6 @@ This project relies on the following dependencies:
 
 The project is written in TypeScript. To compile the TypeScript code to JavaScript, run:
 
-bash
-
-Copy code
-
 `npm run build`
 
 ### 2\. **Run the query function**:
